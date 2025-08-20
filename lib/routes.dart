@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
-import 'package:rotas/main.dart';
 import 'package:rotas/screens/intro/intro_screen.dart';
 import 'package:rotas/screens/splash/splash_screen.dart';
 
